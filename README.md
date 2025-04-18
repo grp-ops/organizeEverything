@@ -1,7 +1,10 @@
 ## organizeEverything
 
-[Automate folder structure creation]
-[Sort folders, drives and directories]
+Python scripts useful for projects, tasks and digital organization.
+
+---
+
+
 
 #### createPrjDirectory.py
 
