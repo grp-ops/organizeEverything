@@ -1,5 +1,8 @@
 ## organizeEverything
 
+[Automate folder structure creation]
+[Sort folders, drives and directories]
+
 #### createPrjDirectory.py
 
 Creates a master folder with internal subfolders for new projects.
