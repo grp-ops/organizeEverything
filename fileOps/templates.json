@@ -1,0 +1,44 @@
+{
+  "templates": {
+    "ulab": {
+      "name": "Utility Lab",
+      "description": "Base Project Config",
+      "folders": [
+        "00_DOCS/00_FROM_CLIENT",
+        "01_RESEARCH/",
+        "02_PROJECT_FILES/00_Cinema4D/tex",
+        "02_PROJECT_FILES/00_Cinema4D/cache",
+        "02_PROJECT_FILES/00_Cinema4D/assets",
+        "02_PROJECT_FILES/01_AfterEffects",        
+        "02_PROJECT_FILES/02_Illustrator",
+        "03_RENDERS/00_Cinema4D/vX",
+        "03_RENDERS/00_Cinema4D/STILLS",
+        "03_RENDERS/00_Cinema4D/WIREFRAMES",
+        "03_RENDERS/FINALS",
+        "04_EXPORTS/YYYY_MM_DD"
+      ]
+    },
+    "basic_web": {
+      "name": "Basic Web Project",
+      "description": "Simple web project structure",
+      "folders": [
+        "src",
+        "src/assets",
+        "src/components",
+        "src/styles",
+        "public",
+        "docs"
+      ],
+      "files": [
+        {
+          "path": "src/index.html",
+          "content": "<!DOCTYPE html>\n<html>\n<head>\n    <title>Project</title>\n</head>\n<body>\n    <h1>Hello World</h1>\n</body>\n</html>"
+        },
+        {
+          "path": "README.md",
+          "content": "# Project\n\nDescription of the project.\n"
+        }
+      ]
+    }
+  }
+}
